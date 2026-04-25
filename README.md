@@ -10,7 +10,13 @@ https://www.youtube.com/@Gamer_Arnab_XYZ?sub_confirmation=1
 
 
 ### My GitHub Trophies 🏆
-[![github contribution grid snake](https://github-profile-trophy.vercel.app/?username=GamerArnabXYZ&theme=onestar&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=GamerArnabXYZ&theme=radical&no-frame=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### My GitHub Stats 📊
+![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerArnabXYZ&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerArnabXYZ&layout=compact&theme=radical)
 
 
 ### My Contribution Snake 🐍
