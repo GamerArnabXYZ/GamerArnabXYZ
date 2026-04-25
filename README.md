@@ -10,7 +10,7 @@ https://www.youtube.com/@Gamer_Arnab_XYZ?sub_confirmation=1
 
 
 ### My GitHub Trophies 🏆
-[![Trophies](https://github-profile-trophy.vercel.app/?username=GamerArnabXYZ&theme=radical&no-frame=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://trophy.benkou.dev/?username=GamerArnabXYZ&theme=radical&no-frame=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### My GitHub Stats 📊
